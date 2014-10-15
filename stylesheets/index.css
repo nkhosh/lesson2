@@ -1,3 +1,10 @@
 body {
-  background-color = #C6C5C5
+  background-color = #C6C5C5;
+}
+
+li #specialLi {
+  color:#000000;
+}
+li.red {
+  color:#AA3939;
 }
